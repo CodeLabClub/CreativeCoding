@@ -29,7 +29,7 @@
 
 ### 如何使用？
 
-创意编程的学习资料包含[**视频**](https://www.bilibili.com/video/BV1jT4y1K7iA)和学习讲义，学习的时候建议两者搭配使用。
+创意编程的学习资料包含[**视频**](https://www.bilibili.com/video/BV1jT4y1K7iA)和[**学习讲义**](https://creative-coding.codelab.club/)，学习的时候建议两者搭配使用。
 
 ![](.gitbook/assets/0.2-shi-pin-.png)
 
