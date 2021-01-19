@@ -24,7 +24,7 @@
 
 ### 3. 互动交流
 
-欢迎进入 [CodeLab 论坛](https://discuss.codelab.club/c/8-category/8)和大家讨论和交流，你可以分享你的学习心得，提问寻求帮助，帮助他人解决问题。先在[新人报到帖](https://discuss.codelab.club/t/topic/157)向大家打个招呼吧（如何发帖见下面编程百科“如何在论坛中发帖或回复”）。
+欢迎进入 [CodeLab 论坛](https://discuss.codelab.club/c/8-category/8)和大家讨论和交流，你可以分享你的学习心得，提问寻求帮助，帮助他人解决问题。先在[新人报到帖](https://discuss.codelab.club/t/topic/157)向大家打个招呼吧（如何发帖见下面编程百科[如何在论坛中发帖或回复](01-bian-cheng-zhun-bei-shang.md#2-ru-he-zai-lun-tan-zhong-fa-tie-huo-hui-fu)）。
 
 ### 4. 总结与反思
 
@@ -42,7 +42,7 @@ Scratch 是麻省理工学院媒体实验室（MIT Media Lab）开发的一款�
 
 ![](.gitbook/assets/1.1-scratch-jie-shao-.png)
 
-### 2. 如何在论坛中发帖或回复？ <a id="reply"></a>
+### 2. 如何在论坛中发帖或回复？ <a id="2-ru-he-zai-lun-tan-zhong-fa-tie-huo-hui-fu"></a>
 
 先进入 [CodeLab 论坛](https://discuss.codelab.club/)，点击右上角的“登陆”按钮，
 
@@ -70,7 +70,7 @@ Scratch 是麻省理工学院媒体实验室（MIT Media Lab）开发的一款�
 
 ## 学习资源
 
-本节课相关的学习资源如下，浏览社区和编程时，推荐使用[谷歌浏览器](https://www.google.cn/chrome/index.html)。
+本单元相关的学习资源如下，浏览社区和编程时，推荐使用[谷歌浏览器](https://www.google.cn/chrome/index.html)。
 
 * [Scratch 示例项目](https://create.codelab.club/studios/64/)
 * [注册编程账号](https://create.codelab.club/join)
