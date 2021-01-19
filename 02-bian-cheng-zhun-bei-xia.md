@@ -10,7 +10,7 @@
 
 ### 1. 观看视频
 
-观看视频[小星星](https://www.bilibili.com/video/BV1jT4y1K7iA?p=4)、[小猫织地毯](https://www.bilibili.com/video/BV1jT4y1K7iA?p=5)。通过创作作品“小星星”了解“序列”概念和音乐积木。在创作“小猫织地毯”项目的过程中探索动作、外观、画笔积木。
+观看视频[小星星](https://www.bilibili.com/video/BV1jT4y1K7iA?p=4)、[小猫织地毯](https://www.bilibili.com/video/BV1jT4y1K7iA?p=5)。通过创作作品“小星星”了解“序列”概念和音乐积木。在创作“小猫织地毯”项目的过程中探索动作、外观、画笔积木。小星星的完整简谱见[编程百科](02-bian-cheng-zhun-bei-xia.md#3-xiao-xing-xing-wan-zheng-jian-pu)。
 
 ### 2. 完成课后拓展
 
