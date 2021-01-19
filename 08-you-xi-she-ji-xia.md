@@ -40,7 +40,7 @@
 
 ### 1. 游戏类型
 
-游戏是 CodeLab 社区用户热门的创作主题，在社区中有各种类型的游戏，比如迷宫游戏、体感游戏、格斗游戏、平台游戏，体验这些游戏，发现游戏的魅力吧！
+游戏是 CodeLab 社区热门的创作主题，在社区中有各种类型的游戏，比如迷宫游戏、体感游戏、格斗游戏、平台游戏，体验这些游戏，探索游戏的魅力吧！
 
 * [Maze Game](https://create.codelab.club/projects/1330)
 * [Posnet 弹球](https://create.codelab.club/projects/8545)

@@ -49,5 +49,5 @@
 * [弹幕发射工作室](https://create.codelab.club/studios/370)
 * [综合创作工作室](https://create.codelab.club/studios/371/)
 * [交流答疑专区](https://discuss.codelab.club/c/8-category/32-category/32)
-* [CodeLab 入门页面](https://create.codelab.club/ideas)
+* [更多编程入门项目](https://create.codelab.club/ideas)
 

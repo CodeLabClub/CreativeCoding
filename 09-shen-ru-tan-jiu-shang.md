@@ -19,7 +19,7 @@
 
 ![](.gitbook/assets/9.1-tuo-zhan-1.png)
 
-拓展 2：使用克隆积木拓展”飞镖大作战拓展“项目，并将作品添加到[角色克隆](https://create.codelab.club/studios/369/)工作室。
+拓展 2：使用克隆积木拓展“飞镖大作战拓展”项目，并将作品添加到[角色克隆](https://create.codelab.club/studios/369/)工作室。
 
 
 
