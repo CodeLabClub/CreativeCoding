@@ -24,7 +24,7 @@
 
 ### 3. 互动交流
 
-欢迎进入 [CodeLab 论坛](https://discuss.codelab.club/c/8-category/8)和大家讨论和交流，你可以分享你的学习心得，提问寻求帮助，帮助他人解决问题。先在[新人报到帖](https://discuss.codelab.club/t/topic/157)向大家打个招呼吧（如何发帖见下面“编程百科”部分的内容）。
+欢迎进入 [CodeLab 论坛](https://discuss.codelab.club/c/8-category/8)和大家讨论和交流，你可以分享你的学习心得，提问寻求帮助，帮助他人解决问题。先在[新人报到帖](https://discuss.codelab.club/t/topic/157)向大家打个招呼吧（如何发帖见下面编程百科“如何在论坛中发帖或回复”）。
 
 ### 4. 总结与反思
 
@@ -42,7 +42,7 @@ Scratch 是麻省理工学院媒体实验室（MIT Media Lab）开发的一款�
 
 ![](.gitbook/assets/1.1-scratch-jie-shao-.png)
 
-### 2. 如何在论坛中发帖或回复？
+### 2. 如何在论坛中发帖或回复？ <a id="reply"></a>
 
 先进入 [CodeLab 论坛](https://discuss.codelab.club/)，点击右上角的“登陆”按钮，
 
