@@ -44,7 +44,7 @@ Scratch 是麻省理工学院媒体实验室（MIT Media Lab）开发的一款�
 
 ### 2. 如何在论坛中发帖或回复？ <a id="2-ru-he-zai-lun-tan-zhong-fa-tie-huo-hui-fu"></a>
 
-先进入 [CodeLab 论坛](https://discuss.codelab.club/)，点击右上角的“登陆”按钮，
+先进入 [CodeLab 社区](https://create.codelab.club/)，登陆 CodeLab 账号，然后进入 [CodeLab 论坛](https://discuss.codelab.club/)，点击右上角的“登陆”按钮，
 
 ![](.gitbook/assets/1.2-deng-lu-lun-tan-.png)
 
